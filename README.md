@@ -8,3 +8,4 @@ Links and others things for laravel ecosystems
 
 # Api Laravel
 - https://github.com/Treblle/laravel-api-boilerplate
+- https://github.com/tighten/ziggy
