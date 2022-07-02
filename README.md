@@ -12,3 +12,4 @@ Links and others things for laravel ecosystems
 
 # Spatie
 - https://github.com/spatie/laravel-schemaless-attributes
+- https://github.com/spatie/pdf-to-text
