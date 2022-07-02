@@ -11,5 +11,9 @@ Links and others things for laravel ecosystems
 - https://github.com/tighten/ziggy
 
 # Spatie
+
+Listado de paquetes de spatie
+. https://spatie.be/open-source?search=&sort=-downloads
+
 - https://github.com/spatie/laravel-schemaless-attributes
 - https://github.com/spatie/pdf-to-text
