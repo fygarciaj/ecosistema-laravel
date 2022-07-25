@@ -17,3 +17,6 @@ Listado de paquetes de spatie
 
 - https://github.com/spatie/laravel-schemaless-attributes
 - https://github.com/spatie/pdf-to-text
+- https://mantine.dev/ especial
+= https://github.com/area17/blast
+- https://lorem.space/
