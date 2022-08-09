@@ -12,7 +12,7 @@ Links and others things for laravel ecosystems
 # Api Laravel
 - https://github.com/Treblle/laravel-api-boilerplate
 - https://github.com/tighten/ziggy
-- [Agrupación de Rutas en Laravel: 6 técnicas para organizar las rutas] (https://codersfree.com/posts/agrupacion-de-rutas-en-laravel-6-tecnicas-para-organizar-las-rutas?fbclid=IwAR1CRAS-g4yj5_kzNTuJ7rZ33toRPbpjuw36m7jy0s3DazDkvydm7HLPF6k)
+- [Agrupación de Rutas en Laravel: 6 técnicas para organizar las rutas](https://codersfree.com/posts/agrupacion-de-rutas-en-laravel-6-tecnicas-para-organizar-las-rutas?fbclid=IwAR1CRAS-g4yj5_kzNTuJ7rZ33toRPbpjuw36m7jy0s3DazDkvydm7HLPF6k)
 
 # Spatie
 
