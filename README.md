@@ -7,6 +7,7 @@ Links and others things for laravel ecosystems
 -  [Laravel Modules](https://asgardcms.com/)
 -  https://laravel.initializer.dev/ !Inicializador laravel.
 -  https://github.com/revoltphp/event-loop
+-  https://webdevetc.com/blog/laravel-naming-conventions/
 
 
 # Api Laravel
