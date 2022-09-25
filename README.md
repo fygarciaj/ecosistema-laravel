@@ -8,6 +8,8 @@ Links and others things for laravel ecosystems
 -  https://laravel.initializer.dev/ !Inicializador laravel.
 -  https://github.com/revoltphp/event-loop
 -  https://webdevetc.com/blog/laravel-naming-conventions/
+-  https://github.com/alexeymezenin/laravel-best-practices
+-  php-fig.org/psr/psr-12/
 
 
 # Api Laravel
