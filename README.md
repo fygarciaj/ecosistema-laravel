@@ -33,9 +33,13 @@ Listado de paquetes de spatie
 - https://mjml.io/
 - https://logoipsum.com/
 
-Sockets laravel
+# Sockets laravel
 - https://soketi.app/ !Importante Soketi is your simple, fast, and resilient open-source WebSockets server. 📣
 
-Projects Laravel
+# Projects Laravel
 - https://github.com/monicahq/monica
+
+
+# Paquetes
+- https://github.com/Protoqol/Prequel
 - 
