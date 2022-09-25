@@ -35,3 +35,7 @@ Listado de paquetes de spatie
 
 Sockets laravel
 - https://soketi.app/ !Importante Soketi is your simple, fast, and resilient open-source WebSockets server. 📣
+
+Projects Laravel
+- https://github.com/monicahq/monica
+- 
