@@ -44,4 +44,4 @@ Listado de paquetes de spatie
 - https://github.com/Protoqol/Prequel
 - https://livewire-powergrid.com/#/
 - https://github.com/orangehill/iseed
-- 
+- https://github.com/lucasdotvin/laravel-soulbscription (https://github.com/lucasdotvin/laravel-soulbscription) [Manejo de susbscripciones]
